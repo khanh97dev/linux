@@ -53,7 +53,7 @@ Script tự động tạo và cập nhật file cấu hình cho MimoCode CLI v�
 
 ```bash
 # Chạy trực tiếp từ GitHub
-curl -fsSL https://raw.githubusercontent.com/khanh97dev/linux/main/mimo.sh | sh
+curl -fsSL https://raw.githubusercontent.com/khanh97dev/linux/master/mimo.sh | sh
 ```
 
 Script sẽ tự động yêu cầu quyền root nếu cần.
